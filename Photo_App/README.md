@@ -38,7 +38,7 @@ The **frontend application, cloud deployment, and user-facing product** were han
 
 ---
 
-## System Architecture (High Level)
+## System Architectur
 
 1. **Offline Ingestion**
    - Wedding images are processed once
