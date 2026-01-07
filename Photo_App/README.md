@@ -82,7 +82,7 @@ Photo_App/
 ├── utils/                     # Helper utilities
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
