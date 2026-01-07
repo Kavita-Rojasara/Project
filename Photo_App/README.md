@@ -72,6 +72,7 @@ This separation ensures:
 
 ## Repository Structure
 
+```text
 Photo_App/
 ├── app.py                     # Streamlit demo for face search
 ├── face_recognition_system.py # Offline embedding generation
