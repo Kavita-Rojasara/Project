@@ -1,0 +1,9 @@
+streamlit
+numpy
+opencv-python
+Pillow
+tqdm
+psycopg2-binary
+deepface
+retina-face
+qrcode
