@@ -78,7 +78,7 @@ Photo_App/
 ├── face_recognition_system.py # Offline embedding generation
 ├── event_management.py        # Event & QR demo module
 ├── config.py                  # Centralized path configuration
-├── data/                      # Local demo/test data (gitignored)
+├── data/                      # Local demo/test data
 ├── utils/                     # Helper utilities
 ├── requirements.txt
 └── README.md
