@@ -1,7 +1,0 @@
-model:
-  backbone: resnet18   # resnet50 | resnet18
-
-faiss:
-  index_type: flat   # flat | ivf
-  nlist: 100          # only used for IVF
-  nprobe: 10          # used at search time for IVF
