@@ -48,7 +48,7 @@ The Streamlit application allows users to upload a query image and retrieve visu
 
 The backend exposes a `/search` endpoint returning ranked results with similarity scores.
 
-![API Response](assets/api_response.png)
+![API Response](assets/api_docs.png)
 
 ---
 
