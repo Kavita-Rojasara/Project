@@ -1,0 +1,41 @@
+Salary Structure and Compensation Details
+-----------------------------------------
+
+This document contains confidential information related to employee compensation.
+Access to this document is restricted to authorized personnel only.
+
+1. Salary Components
+Employee salary consists of the following components:
+- Basic Pay
+- House Rent Allowance (HRA)
+- Special Allowance
+- Performance Bonus (if applicable)
+
+2. Salary Bands (Monthly - INR)
+
+Junior Level (0–2 years experience):
+- ₹30,000 – ₹50,000
+
+Mid Level (2–5 years experience):
+- ₹60,000 – ₹90,000
+
+Senior Level (5+ years experience):
+- ₹1,00,000 – ₹1,50,000
+
+3. Performance Bonus
+Performance bonuses are discretionary and based on:
+- Individual performance
+- Project delivery
+- Company revenue
+
+Bonuses are typically reviewed annually.
+
+4. Salary Revisions
+Salary revisions are conducted once a year.
+Revisions depend on performance reviews and company growth.
+
+5. Confidentiality Notice
+Employees are strictly prohibited from sharing salary details with other employees.
+Any violation of this policy may lead to disciplinary action.
+
+This document is confidential and intended for internal use only.

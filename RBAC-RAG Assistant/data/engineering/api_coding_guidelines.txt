@@ -1,0 +1,33 @@
+API Coding Guidelines
+---------------------
+
+This document defines the coding standards and best practices for backend API development.
+
+1. Code Structure
+- Follow modular project structure.
+- Separate business logic from API routes.
+- Keep functions small and readable.
+
+2. Naming Conventions
+- Use meaningful variable and function names.
+- API endpoints should follow REST naming conventions.
+- Use lowercase and underscores where applicable.
+
+3. Error Handling
+- All APIs must return proper HTTP status codes.
+- Error responses should include clear and meaningful messages.
+- Do not expose internal system errors to clients.
+
+4. Logging
+- Log important events such as errors and warnings.
+- Avoid logging sensitive data such as passwords or tokens.
+
+5. Testing
+- Unit tests should be written for critical business logic.
+- New features should include basic test coverage.
+
+6. Code Reviews
+- All code changes must go through peer review.
+- Feedback should focus on readability, correctness, and maintainability.
+
+Following these guidelines helps ensure consistency and code quality across the backend systems.

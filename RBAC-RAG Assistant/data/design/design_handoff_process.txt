@@ -1,0 +1,22 @@
+Design Handoff Process
+----------------------
+
+This document describes how design assets are shared with the engineering team.
+
+1. Design Tools
+Designs are created using tools such as Figma or Adobe XD.
+
+2. Handoff Process
+- Final designs are shared via the design tool link
+- Design specifications and notes are added
+- Assets are exported in required formats
+
+3. Collaboration
+Designers and engineers should communicate clearly during implementation.
+Any design constraints should be discussed early.
+
+4. Version Control
+Updated designs should be clearly marked with version numbers.
+Old versions should not be used for development.
+
+Following this process ensures smooth collaboration between teams.

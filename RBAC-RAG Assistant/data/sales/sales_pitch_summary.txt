@@ -1,0 +1,21 @@
+Sales Pitch Summary
+-------------------
+
+This document summarizes how the company presents its services to clients.
+
+1. Services Offered
+- Web and mobile application development
+- UI/UX design
+- AI and machine learning solutions
+- Data engineering and automation
+
+2. Value Proposition
+- Custom solutions tailored to client needs
+- Experienced technical team
+- Focus on quality and timely delivery
+
+3. Client Engagement
+Initial discussions focus on understanding client requirements
+before proposing a technical solution.
+
+This document is for internal reference only.

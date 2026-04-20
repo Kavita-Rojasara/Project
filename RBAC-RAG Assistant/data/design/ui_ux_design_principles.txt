@@ -1,0 +1,24 @@
+UI/UX Design Principles
+----------------------
+
+This document outlines the core design principles followed across all products.
+
+1. Consistency
+Design elements such as colors, fonts, and spacing should remain consistent
+across all screens and platforms.
+
+2. Simplicity
+Interfaces should be simple and intuitive.
+Avoid unnecessary elements that distract users.
+
+3. Accessibility
+Designs should be accessible to users with different abilities.
+Text should be readable and color contrast should be adequate.
+
+4. Responsiveness
+All designs must work well on desktop, tablet, and mobile devices.
+
+5. User Feedback
+Design decisions should consider user feedback and usability testing results.
+
+These principles help maintain a uniform and user-friendly experience.

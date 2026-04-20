@@ -1,0 +1,36 @@
+Backend Deployment Guide
+------------------------
+
+This document describes the standard backend deployment process used in the company.
+
+1. Technology Stack
+The backend services are primarily built using:
+- Python (FastAPI)
+- Node.js (for selected services)
+- PostgreSQL as the primary database
+- Redis for caching
+
+2. Environments
+The application is deployed across the following environments:
+- Development (local testing)
+- Staging (pre-production testing)
+- Production (live environment)
+
+3. Deployment Process
+- Code changes are pushed to the main branch via pull requests.
+- Every pull request must be reviewed by at least one team member.
+- Automated tests must pass before merging.
+- After merging, the CI pipeline triggers deployment to the staging environment.
+- Production deployment is done after validation on staging.
+
+4. Configuration Management
+Environment variables are used for configuration.
+Sensitive values such as database credentials and API keys are stored securely and must not be committed to the repository.
+
+5. Rollback Strategy
+In case of production issues, the previous stable version can be redeployed.
+Logs should be checked immediately to identify the root cause.
+
+6. Monitoring
+Basic monitoring and logging are enabled for all services.
+Critical errors should be reported to the engineering team without delay.

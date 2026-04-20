@@ -1,0 +1,26 @@
+Client Pricing Overview
+-----------------------
+
+This document provides a high-level overview of project pricing.
+
+1. Pricing Model
+Project pricing is generally based on:
+- Project scope
+- Timeline
+- Team size
+- Technical complexity
+
+2. Pricing Tiers
+- Small projects: ₹3–6 lakhs
+- Medium projects: ₹8–15 lakhs
+- Large projects: Custom pricing
+
+3. Payment Structure
+Payments are usually divided into milestones:
+- Advance payment at project start
+- Milestone-based payments
+- Final payment on delivery
+
+4. Confidentiality
+Pricing information is confidential and should not be shared externally
+without proper authorization.

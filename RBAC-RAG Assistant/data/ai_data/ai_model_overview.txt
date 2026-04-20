@@ -1,0 +1,29 @@
+AI Model Overview
+-----------------
+
+This document provides a high-level overview of AI and machine learning models used in the company.
+
+1. Use Cases
+AI models are primarily used for:
+- Chatbots and conversational assistants
+- Recommendation systems
+- Data classification and analysis
+- Automation of repetitive tasks
+
+2. Model Types
+The company works with the following types of models:
+- Traditional machine learning models (classification, regression)
+- Natural Language Processing models
+- Deep learning models for text and image data
+
+3. Model Lifecycle
+- Data collection and preprocessing
+- Model training and validation
+- Testing on sample datasets
+- Deployment and monitoring
+
+4. Performance Monitoring
+Model performance is monitored using accuracy, latency, and error rates.
+Models are periodically retrained when performance degrades.
+
+This document is intended for general awareness and does not include implementation details.

@@ -1,0 +1,28 @@
+Data Crawling Pipeline
+----------------------
+
+This document describes the internal data crawling and data collection process.
+
+1. Purpose
+The crawling pipeline is used to collect publicly available data from approved sources
+for research and model training purposes.
+
+2. Data Sources
+- Public websites
+- Open datasets
+- Client-approved data sources
+
+3. Crawling Process
+- URLs are added to the crawler queue
+- Data is fetched at scheduled intervals
+- Raw data is cleaned and stored for processing
+
+4. Compliance and Risk
+- Crawling must follow website terms and conditions
+- Sensitive or personal data must not be collected
+- Any legal concerns should be escalated immediately
+
+5. Access Restriction
+This document contains operational details and is restricted to authorized personnel only.
+
+Unauthorized access or misuse of crawling tools is strictly prohibited.
