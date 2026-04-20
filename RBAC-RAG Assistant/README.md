@@ -119,7 +119,7 @@ User Query → Embedding → Vector Search → RBAC Filter → Answer → UI/API
 ## Repository Structure
 
 project_root/
-├── app/                     # FastAPI backend application
+ ├── app/                     # FastAPI backend application
 │   ├── core/                # Core RAG logic
 │   │   ├── embedding_engine.py
 │   │   ├── answer_generator.py
@@ -148,9 +148,9 @@ project_root/
 │   ├── intern_backend_access.png
 │   ├── swagger_auth.png
 │
-├── requirements.txt         # Python dependencies
-├── .gitignore
-└── README.md
+ ├── requirements.txt         # Python dependencies
+ ├── .gitignore
+ └── README.md
 
 ---
 
